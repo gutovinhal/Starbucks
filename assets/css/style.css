@@ -6,21 +6,21 @@ body {
 }
 
 .container {
-  max-width: 1140px;
+  max-width: 1800px;
   margin: auto;
 }
 
 .bar {
   background-color: #117050;
-  height: 22px;
-  width: 168px;
+  height: 44px;
+  width: 300px;
 }
 
 .button {
   display: inline-block;
-  border: 2px solid black;
+  border: 3px solid black;
   padding: 10px 30px;
-  border-radius: 3px;
+  border-radius: 6px;
   color: #454545;
   text-decoration: none;
 }
@@ -31,21 +31,21 @@ body {
 }
 
 h1 {
-  font-size: 90px;
+  font-size: 110px;
   font-weight: bold;
   font-family: 'Oswald', sans-serif;
   line-height: 100px;
   margin: 0;
-  margin-bottom: 30px;
+  margin-bottom: 50px;
 }
 
 h2 {
   box-sizing: border-box;
-  font-size: 30px;
+  font-size: 60px;
   font-weight: bold;
   font-family: 'Oswald', sans-serif;
-  line-height: 45px;
-  margin: 20px 0;
+  line-height: 60px;
+  margin: 40  px 0;
 }
 
 header .line {
@@ -140,11 +140,13 @@ header .line {
 
 .area1--quote {
   padding-bottom: 20px;
+  font-size: 15px;
 }
 
 .area1--text {
   margin-bottom: 30px;
   line-height: 25px;
+  font-size: 15px;
 }
 
 .area1--img1 {
@@ -173,11 +175,12 @@ header .line {
 
 .area2--text {
   margin-bottom: 30px;
+  font-size: 15px;
   line-height: 25px;
 }
 
 .area2--img1 {
-  height: 570px;
+  height: 630px;
   background-image: url('../images/f4.jpg');
   background-size: cover;
   background-position: center;
@@ -205,6 +208,7 @@ header .line {
 
 .area3--text {
   margin-bottom: 30px;
+  font-size: 15px;
   line-height: 25px;
 }
 
@@ -225,6 +229,7 @@ header .line {
 
 .area4--text {
   margin-bottom: 50px;
+  font-size: 15px;
   line-height: 25px;
 }
 
@@ -273,6 +278,14 @@ footer {
   .area3 {
     grid-template-columns: 3fr 2fr;
   }
+
+  h1 {
+    font-size: 80px;;
+  }
+
+  h2 {
+    font-size: 30px;
+  }
 }
 
 @media (max-width: 425px) {
@@ -292,6 +305,10 @@ footer {
   h1 {
     font-size: 50px;
     line-height: 50px;
+  }
+
+  h2 {
+    font-size: 30px;
   }
 
   .banner--images img {
