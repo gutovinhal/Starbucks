@@ -4,7 +4,7 @@
 > 🇺🇸 A landing page inspired by the Starbucks website, built with a focus on modern and responsive design.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/gutovinhal/Starbucks?color=4B9560&style=flat-square)
-![GitHub](https://img.shields.io/github/license/gutovinhal/Starbucks?color=4B9560&style=flat-square)
+![MIT License](https://img.shields.io/github/license/gutovinhal/Starbucks?color=4B9560&style=flat-square)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgutovinhal.github.io%2FStarbucks&style=flat-square&color=4B9560)
 ![Project Status](https://img.shields.io/badge/status-Finalizado-4B9560?style=flat-square)
 
