@@ -61,22 +61,6 @@
 
 ---
 
-📌 Status do Projeto | Project Status
-
-🇧🇷
-✅ Finalizado — futuras melhorias podem incluir um menu funcional e integração com backend.
-🇺🇸
-✅ Completed — future improvements may include a functional menu and backend integration.
-
-📄 Licença | License
-
-Este projeto está licenciado sob a Licença MIT.
-This project is licensed under the MIT License.
-
-Leia mais em LICENSE.
-
----
-
 ## 📁 Como Executar / How to Run Locally
 
 ```bash
@@ -87,3 +71,18 @@ git clone https://github.com/gutovinhal/Starbucks.git
 cd Starbucks
 
 # Abra o arquivo index.html / Open index.html in your browser
+
+📌 Status do Projeto | Project Status
+
+🇧🇷
+✅ Finalizado — futuras melhorias podem incluir um menu funcional e integração com backend.
+
+🇺🇸
+✅ Completed — future improvements may include a functional menu and backend integration.
+
+📄 Licença | License
+
+Este projeto está licenciado sob a Licença MIT.
+This project is licensed under the MIT License.
+
+Leia mais em LICENSE.
