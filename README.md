@@ -3,11 +3,15 @@
 > 🇧🇷 Projeto de uma landing page inspirada no site da Starbucks, desenvolvida com foco em design moderno e responsivo.  
 > 🇺🇸 A landing page inspired by the Starbucks website, built with a focus on modern and responsive design.
 
-![Preview](https://gutovinhal.github.io/Starbucks/assets/img/img1.png)
+![GitHub repo size](https://img.shields.io/github/repo-size/gutovinhal/Starbucks?color=4B9560&style=flat-square)
+![GitHub](https://img.shields.io/github/license/gutovinhal/Starbucks?color=4B9560&style=flat-square)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fgutovinhal.github.io%2FStarbucks&style=flat-square&color=4B9560)
+
+---
 
 ## 🔗 Acesse / Access the Project
 
-- 🌐 [gutovinhal.github.io/Starbucks](https://gutovinhal.github.io/Starbucks/)
+[![Deploy](https://img.shields.io/badge/🌐%20Ver%20Online-Click%20Here-4B9560?style=for-the-badge)](https://gutovinhal.github.io/Starbucks)
 
 ---
 
@@ -35,9 +39,10 @@
 
 ---
 
-## 📷 Demonstração | Preview
+## 🎥 Demonstração | Preview
 
-![Demo](https://gutovinhal.github.io/Starbucks/assets/img/img2.png)
+![Demo GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRmZm9uNjUwZ2Z6eGFpN2J5dm4xNHFjdXNqaHRhMnA2NzB5aGlmdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GCb5M7U2mVtxN4w3RU/giphy.gif)  
+<!-- Caso você tenha um GIF próprio do projeto, substitua esse link pelo seu -->
 
 ---
 
