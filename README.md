@@ -65,3 +65,14 @@ git clone https://github.com/gutovinhal/Starbucks.git
 cd Starbucks
 
 # Abra o arquivo index.html / Open index.html in your browser
+
+📌 Status do Projeto | Project Status
+🇧🇷
+✅ Finalizado — futuras melhorias podem incluir um menu funcional e integração com backend.
+🇺🇸
+✅ Completed — future improvements may include a functional menu and backend integration.
+
+📄 Licença | License
+MIT License
+Feel free to use, modify, and share this project!
+Sinta-se à vontade para usar, modificar e compartilhar este projeto!
