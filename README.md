@@ -40,13 +40,6 @@
 
 ---
 
-## 🎥 Demonstração | Preview
-
-![Demo GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRmZm9uNjUwZ2Z6eGFpN2J5dm4xNHFjdXNqaHRhMnA2NzB5aGlmdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GCb5M7U2mVtxN4w3RU/giphy.gif)  
-<!-- Substitua o link acima por um GIF seu, se preferir -->
-
----
-
 ## 💡 Aprendizados | What I Learned
 
 🇧🇷  
